@@ -1,6 +1,6 @@
 {
-	"author": "Jose Miguel Fuentes",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Jose Fuentes",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
